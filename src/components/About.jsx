@@ -47,13 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        As an experienced software developer, I have a strong background in Java, PHP, and 
-        JavaScript, as well as expertise in frameworks such as Struts2, Laravel, React, 
+        As an experienced software developer, I have a strong background in Java, C++, C#, , Kotlin, Python, PHP, and 
+        JavaScript, as well as expertise in frameworks such as Struts2, ,.Net Core, Laravel, Xamarin, React, 
         Node.js, and Three.js. Additionally, I have experience in game development using 
-        Unity and WordPress development, creating custom themes and plugins. I pride myself 
+        Unity, I also have experience in android development and WordPress development creating custom themes and plugins. I pride myself 
         on being a quick learner and an effective collaborator, working closely with clients 
         to develop efficient, scalable, and user-friendly solutions that solve real-world problems. 
-        Whether you're looking to create a cutting-edge game, a web application, or a custom 
+        Whether you're looking to create a cutting-edge game, android application, a web application, or a custom 
         WordPress website, I'm ready to work with you to bring your vision to life.
       </motion.p>
 

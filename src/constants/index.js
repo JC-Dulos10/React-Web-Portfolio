@@ -215,7 +215,7 @@ const projects = [
       },
     ],
     image: alakShop,
-    source_code_link: "https://github.com/JC-Dulos10/AlakShop/",
+    source_code_link: "http://alakshop.shop/",
   },
   {
     name: "Phone Pirates",
